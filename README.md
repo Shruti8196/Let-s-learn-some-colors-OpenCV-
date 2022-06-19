@@ -11,4 +11,4 @@ Replace image path with suitable path, let's say you stored img1 in F: Drive, ru
 >python Color_names.py -i F:\img1.jpg
 
 
-
+https://github.com/Shruti8196/Let-s-learn-some-colors-OpenCV-/blob/main/Screen%20(Working%20Video).mp4
